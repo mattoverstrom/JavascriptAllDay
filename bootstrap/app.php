@@ -2,7 +2,7 @@
 
 /*
 |--------------------------------------------------------------------------
-| Create The Application please.. testing -- maybe from scratch we had a composer bugy
+| Create The Application please.. testing -- maybe from scratch we had a composer bug
 |-------------------------------------------------------------------------
 |
 | The first thing we will do is create a new Laravel application instance
